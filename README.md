@@ -19,6 +19,7 @@
 <p align="center">
   <a href="#content">Content</a> •
   <a href="#setup">Setup</a> •
+  <a href="#add-metadata">Add metadata</a> •
   <a href="#license">License</a>
 </p>
 
@@ -26,7 +27,7 @@
 
 ## Content
 
-This repo contains the UI app of the Mimic protocol.
+This repo contains metadata for the smart vaults explorer app of the Mimic protocol.
 
 ## Setup
 
@@ -35,17 +36,19 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mimic-fi/v2-frontend
+$ git clone https://github.com/mimic-fi/v2-metadata
 
 # Go into the repository
-$ cd v2-frontend
+$ cd v2-metadata
 
 # Install dependencies
 $ yarn
 
-# Run app
-$ yarn start
+
 ```
+## Add Metadata
+
+TODO
 
 ## License
 
