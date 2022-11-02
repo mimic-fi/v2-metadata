@@ -1,10 +1,10 @@
 {
-  "name": "@mimic-fi/v2-frontend",
+  "name": "@mimic-fi/v2-metadata",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "lint": "eslint .",
-    "build": "echo 'No build script for now'",
+    "build": "node scripts/build.mjs",
     "start": "echo 'No start script for now'"
   },
   "dependencies": {},
