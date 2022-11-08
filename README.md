@@ -5,9 +5,12 @@
 <h4 align="center">A DeFi automation platform</h4>
 
 <p align="center">
-  <a href="https://github.com/mimic-fi/v2-metadata/actions/workflows/ci.yml">
-    <img src="https://github.com/mimic-fi/v2-metadata/actions/workflows/ci.yml/badge.svg" alt="CI">
+  <a href="https://github.com/mimic-fi/v2-metadata/actions/workflows/build.yml">
+    <img src="https://github.com/mimic-fi/v2-metadata/actions/workflows/build.yml/badge.svg" alt="Build">
   </a>
+  <a href="https://github.com/mimic-fi/v2-metadata/actions/workflows/lint.yml">
+    <img src="https://github.com/mimic-fi/v2-metadata/actions/workflows/lint.yml/badge.svg" alt="Lint">
+  </a>  
   <a href="https://discord.mimic.fi">
     <img alt="Discord" src="https://img.shields.io/discord/989984112397922325">
   </a>
