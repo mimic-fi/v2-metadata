@@ -3,26 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "lint": "eslint .",
-    "build": "node scripts/build.mjs",
-    "start": "echo 'No start script for now'"
+    "lint": "eslint . --ext js,mjs",
+    "build": "node scripts/build.mjs"
   },
   "dependencies": {},
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.9.0",
-    "eslint-config-react-app": "^7.0.1"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "@babel/core": "^7.20.2",
+    "@babel/eslint-parser": "^7.5.4",
+    "eslint": "^8.27.0"
   }
 }
