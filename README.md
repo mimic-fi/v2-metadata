@@ -5,11 +5,11 @@
 <h4 align="center">A DeFi automation platform</h4>
 
 <p align="center">
-  <a href="https://github.com/mimic-fi/v2-frontend/actions/workflows/ci.yml">
-    <img src="https://github.com/mimic-fi/v2-frontend/actions/workflows/ci.yml/badge.svg" alt="CI">
+  <a href="https://github.com/mimic-fi/v2-metadata/actions/workflows/ci.yml">
+    <img src="https://github.com/mimic-fi/v2-metadata/actions/workflows/ci.yml/badge.svg" alt="CI">
   </a>
   <a href="https://discord.mimic.fi">
-    <img src="https://img.shields.io/discourse/status?server=https%3A%2F%2Fmeta.discourse.org" alt="Discord">
+    <img alt="Discord" src="https://img.shields.io/discord/989984112397922325">
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-GLP_3.0-green">
@@ -27,7 +27,7 @@
 
 ## Content
 
-This repo contains metadata for the smart vaults explorer app of the Mimic protocol.
+This repo contains metadata for the Smart Vaults explorer app of the Mimic protocol.
 
 ## Setup
 
@@ -43,9 +43,8 @@ $ cd v2-metadata
 
 # Install dependencies
 $ yarn
-
-
 ```
+
 ## Add Metadata
 
 TODO
