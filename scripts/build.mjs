@@ -4,7 +4,7 @@ import path from 'path'
 const baseLocation = './data'
 const outputLocation = './build'
 
-fs.rmSync(outputLocation, { recursive: true });
+fs.rmSync(outputLocation, { recursive: true })
 console.log(`Cleaning ${outputLocation}...`)
 
 
