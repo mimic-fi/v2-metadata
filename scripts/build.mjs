@@ -20,7 +20,10 @@ for (const directory of fs.readdirSync(baseLocation)) {
 
         for (const network of networks) {
           for (const address of addresses) {
-            console.log(`New ${directory}: `, name, network, address)
+
+            const addressLow = address.toLowerCase()
+
+            console.log(`New ${directory}: `, name, network, addressLow)
 
             const __outputDirname = `${outputLocation}/${directory}/${network}`
             const copy = { ...source }
@@ -32,7 +35,7 @@ for (const directory of fs.readdirSync(baseLocation)) {
             }
 
             fs.writeFileSync(
-              path.join(__outputDirname, address),
+              path.join(__outputDirname, addressLow),
               JSON.stringify(copy)
             )
           }
