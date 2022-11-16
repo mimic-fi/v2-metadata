@@ -1,1 +1,1 @@
-{"title":"Wrapper","description":"Wrapper action convert ETH into WETH and withdraw it back","successMessage":"Assets wrapped"}
+{"icon":"https://v2-mimic.s3.amazonaws.com/wrap.png","title":"Wrapper","description":"Wrapper action convert ETH into WETH and withdraw it back","successMessage":"Assets wrapped"}
