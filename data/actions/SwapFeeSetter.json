@@ -1,0 +1,8 @@
+{
+    "networks": [1],
+    "addresses": ["0xECbDbd99DEa9826713C288592053a64780F8C5Bb", "0xb13Ac071F700062623B188b7F46C5C420dBD3C0f"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/config.png",
+    "title": "Fee Setter",
+    "description": "Updated fee according to proposal",
+    "successMessage": "Fee Configured"
+} 
