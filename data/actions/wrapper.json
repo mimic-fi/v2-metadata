@@ -1,7 +1,8 @@
 {
     "networks": [5,1],
     "addresses": ["0xc09B602f72f876409EA2aCd5a9077EB97a7a3Bd2"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/wrap.png",
     "title": "Wrapper",
     "description": "Wrapper action convert ETH into WETH and withdraw it back",
     "successMessage": "Assets wrapped"
-}
+} 
