@@ -4,5 +4,5 @@
     "icon": "https://v2-mimic.s3.amazonaws.com/config.png",
     "title": "Fee Setter",
     "description": "Update fee according to proposal",
-    "successMessage": "Fee Configured"
+    "successMessage": "Fee updated successfully"
 } 
