@@ -3,6 +3,6 @@
     "addresses": ["0x9971203dee36a4DCC46257Dd8d71F22229678eaF"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "OTC Swap",
-    "description": "",
+    "description": "OTC Swap trade large amount of crypto securely and easy",
     "successMessage": "Assets OTC swapped successfully"
 } 

@@ -3,6 +3,6 @@
     "addresses": ["0x369E29B1C4BEafD547ceC8e909f136A118e867A6"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "DEX Swap",
-    "description": "",
+    "description": "DEX Swap search for the best prices on different AMMs and aggregators under the slippage configured by the owner.",
     "successMessage": "Assets DEX swapped successfully"
 } 
