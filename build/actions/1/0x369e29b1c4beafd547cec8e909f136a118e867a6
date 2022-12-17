@@ -1,1 +1,1 @@
-{"icon":"https://v2-mimic.s3.amazonaws.com/swap.png","title":"DEX Swap","description":"","successMessage":"Assets DEX swapped successfully"}
+{"icon":"https://v2-mimic.s3.amazonaws.com/swap.png","title":"DEX Swap","description":"DEX Swap search for the best prices on different AMMs and aggregators under the slippage configured by the owner.","successMessage":"Assets DEX swapped successfully"}
