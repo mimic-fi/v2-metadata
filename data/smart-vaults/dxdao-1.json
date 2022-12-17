@@ -1,6 +1,6 @@
 {
     "networks": [5,1],
     "addresses": ["0x847713Bc4cB6034849ea8E084319478b805c555A"],
-    "title": "Smart Vault DXdao #1",
+    "title": "DXdao Smart Vault Wrapper",
     "description": "This Smart Vault detects ETH balance and wrap it, before sending it back to DXDao"
 }
