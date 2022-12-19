@@ -1,6 +1,6 @@
 {
     "networks": [1],
     "addresses": ["0x20F77a12494D70BD80670f5f79099af60DF9ea9d"],
-    "title": "Smart Vault #1 - Fee Collector MIMIC TEST",
+    "title": "Mimic Smart Vault Fee Collector TEST",
     "description": "This Smart Vault aims to provide ParaSwap DAO with an automated way to collect the fees that the protocol has earned from its different layers and convert them to distribute it back once a month to its tokens holders."
 }
