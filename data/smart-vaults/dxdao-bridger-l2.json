@@ -1,0 +1,6 @@
+{
+    "networks": [80001],
+    "addresses": ["0x282d45DFe36f08aF75F278dbf5F8c301fB30EA56"],
+    "title": "DXdao Smart Vault Bridger",
+    "description": "This Smart Vault detects token balances and bridge it directly to the Smart Vault in Goerli"
+}

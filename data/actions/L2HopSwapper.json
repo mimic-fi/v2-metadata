@@ -1,0 +1,8 @@
+{
+    "networks": [80001],
+    "addresses": ["0x2079902D6e5e6cE932955395a9d03dA9009a4bCa"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
+    "title": "Bridge",
+    "description": "Swap bridged assets in Mumbai",
+    "successMessage": "Assets swapped successfully"
+} 

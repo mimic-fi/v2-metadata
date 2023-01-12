@@ -1,0 +1,8 @@
+{
+    "networks": [5],
+    "addresses": ["0x853acb808357AD416cD9A73E2c99B2944cDB36db"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
+    "title": "Bridge",
+    "description": "Bridge assets from Goerli to Mumbai",
+    "successMessage": "Assets bridged to the other side successfully"
+} 
