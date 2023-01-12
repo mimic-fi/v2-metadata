@@ -1,1 +1,0 @@
-{"icon":"https://v2-mimic.s3.amazonaws.com/swap.png","title":"Gather and Swap","description":"Gathers assets from ParaSwap Fee Claimer and swaps them to WETH (except  WETH, ETH and PSP)","successMessage":"Assets claimed and swapped successfully"}
