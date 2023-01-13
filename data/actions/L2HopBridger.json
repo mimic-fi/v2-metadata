@@ -1,0 +1,8 @@
+{
+    "networks": [80001],
+    "addresses": ["0x563F70db0567b44644fd901Cd17B48A236b43849"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
+    "title": "Bridge",
+    "description": "Bridge assets from Mumbai to Goerli",
+    "successMessage": "Assets bridged to the destination chain successfully"
+} 
