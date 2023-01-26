@@ -1,0 +1,8 @@
+{
+    "networks": [1, 42161, 100, 80001, 10, 137],
+    "addresses": ["0xefd429e2FD956558cC58e505f6c73c0986b2F707", "0xbE2599f36876a10bf8ebD16fae41aBd5065d7bA1"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
+    "title": "Funder",
+    "description": "Swaps USDC to that native token and funds a Mimic Bot so it reaches an upper threshold",
+    "successMessage": "Funder Action executed successfully"
+} 

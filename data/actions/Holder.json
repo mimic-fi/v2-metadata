@@ -1,0 +1,8 @@
+{
+    "networks": [1, 42161, 100, 80001, 10, 137],
+    "addresses": ["0xDf7D56E526eD37834be0e4D2C8aecE552f54cFea", "0x60a738E692673d2aBc0be0d8cBD4A69AD1065a54"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
+    "title": "Hodler",
+    "description": " Swaps all whitelisted assets to USDC when they reach a certain threshold",
+    "successMessage": "Funder Action executed successfully"
+} 
