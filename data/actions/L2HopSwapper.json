@@ -1,6 +1,6 @@
 {
     "networks": [80001, 42161, 100, 10, 137],
-    "addresses": ["0x2079902D6e5e6cE932955395a9d03dA9009a4bCa", "0x54ac100F7e33f521C2cc3c3D591D518a4E252F9e", "0xe1CecA4DE82602b5f25C776AB9C6661A3500c68e"],
+    "addresses": ["0x2079902D6e5e6cE932955395a9d03dA9009a4bCa", "0x54ac100F7e33f521C2cc3c3D591D518a4E252F9e", "0xe1CecA4DE82602b5f25C776AB9C6661A3500c68e", "0x9713b8373482B69a334bb071f8809A9DD4429dE7"],
     "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
     "title": "Bridge",
     "description": "Swap bridged assets",
