@@ -1,6 +1,6 @@
 {
     "networks": [1, 137],
-    "addresses": ["0xc09B602f72f876409EA2aCd5a9077EB97a7a3Bd2", "0x57AB1eAC673584968D57A6Ce5fb9186663F529AB","0x35d735010f52241568a15cc866447d1a4056f3be", "0xD68C6Ed978D4c115AB25E13879440366d17a71BA"],
+    "addresses": ["0xc09B602f72f876409EA2aCd5a9077EB97a7a3Bd2", "0x57AB1eAC673584968D57A6Ce5fb9186663F529AB","0x35d735010f52241568a15cc866447d1a4056f3be", "0xD68C6Ed978D4c115AB25E13879440366d17a71BA", "0xA6fe41b1d0aac823e48Dea260561E1924BC36925"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "Gather and Swap",
     "description": "Gathers assets from ParaSwap Fee Claimer and swaps them to WETH (except  WETH, ETH and PSP)",
