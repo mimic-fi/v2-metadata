@@ -1,6 +1,6 @@
 {
     "networks": [1, 137],
-    "addresses": ["0x73FE3B53FBdc6AF1734b59921120C73af388f07e", "0xfD8b5e5556d5b662d23ae08c0a7795721c9810B1", "0x05Cd5EcF62C18058C11F44f4DC8caD867aAEe705"],
+    "addresses": ["0x73FE3B53FBdc6AF1734b59921120C73af388f07e", "0xfD8b5e5556d5b662d23ae08c0a7795721c9810B1", "0x05Cd5EcF62C18058C11F44f4DC8caD867aAEe705", "0x6eF875DFEdAAF5F9625e16E7959DEAFf453d223b"],
     "icon": "https://v2-mimic.s3.amazonaws.com/wrap.png",
     "title": "Gather and Wrap",
     "description": "Gathers ETH or WETH from ParaSwap Fee Claimer. If ETH, it wraps all into WETH",

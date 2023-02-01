@@ -1,6 +1,6 @@
 {
     "networks": [137],
-    "addresses": ["0x00f076bDb53724fEd5D0338c7fb76AAD3152fc58"],
-    "title": "Smart Vault Fee Collector [TEST-OLD]",
+    "addresses": ["0x0807EF5EDD5A02282584C104011eE8D59D46A0FF"],
+    "title": "Smart Vault Fee Collector [TEST]",
     "description": "This Smart Vault aims to provide ParaSwap DAO with an automated way to collect the fees that the protocol has earned from its different layers and convert them to distribute it back once a month to its tokens holders."
 }
