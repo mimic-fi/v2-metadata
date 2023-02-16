@@ -1,0 +1,1 @@
+{"icon":"https://v2-mimic.s3.amazonaws.com/wrap.png","title":"Gather and Wrap","description":"Gathers ETH or WETH from ParaSwap Fee Claimer. If ETH, it wraps all into WETH","successMessage":"Assets claimed and wrapped successfully"}

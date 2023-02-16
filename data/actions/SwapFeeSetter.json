@@ -1,6 +1,6 @@
 {
-    "networks": [1, 137],
-    "addresses": ["0xECbDbd99DEa9826713C288592053a64780F8C5Bb", "0xb13Ac071F700062623B188b7F46C5C420dBD3C0f", "0x5853dE8e01A0320b4C274f804AcB1DE5B40cDF8d", "0x7424c8ec4c043eB863Cc1399f8Dd38BA9222Adf3"],
+    "networks": [1, 137, 56, 42161, 10, 43114, 250],
+    "addresses": ["0xECbDbd99DEa9826713C288592053a64780F8C5Bb", "0xb13Ac071F700062623B188b7F46C5C420dBD3C0f", "0x5853dE8e01A0320b4C274f804AcB1DE5B40cDF8d", "0x7424c8ec4c043eB863Cc1399f8Dd38BA9222Adf3", "0x53BBB6567027E09eD587f7D77c6dDe66B5ba8a9B"],
     "icon": "https://v2-mimic.s3.amazonaws.com/config.png",
     "title": "Fee Setter",
     "description": "Update fee according to proposal",
