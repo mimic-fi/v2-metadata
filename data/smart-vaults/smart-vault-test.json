@@ -1,0 +1,8 @@
+
+{
+    "networks": [1, 137, 56, 42161, 10, 43114, 250],
+    "addresses": ["0x41a6Ed82bb5d22Bfb4F0352Ab353566551dAc656"],
+    "title": "Smart Vault Fee Distribution [TEST]",
+    "description": "",
+    "deprecated": true
+}
