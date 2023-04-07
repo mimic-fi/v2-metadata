@@ -1,0 +1,8 @@
+{
+    "networks": [10],
+    "addresses": ["0x245681511257F3A68513c69a9BF71b2cd78E076A"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/wrap.png",
+    "title": "Claimer",
+    "description": "Claim assets from protocol",
+    "successMessage": "Assets claimed successfully"
+} 
