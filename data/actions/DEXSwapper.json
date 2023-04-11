@@ -1,6 +1,6 @@
 {
     "networks": [1],
-    "addresses": ["0x369E29B1C4BEafD547ceC8e909f136A118e867A6"],
+    "addresses": ["0x369E29B1C4BEafD547ceC8e909f136A118e867A6", "0x0a48bd60ab0f6d8af43e38a5ac7a1118d76451d6"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "DEX Swap",
     "description": "DEX Swap search for the best prices on different AMMs and aggregators under the slippage configured by the owner.",
