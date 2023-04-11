@@ -2,5 +2,6 @@
     "networks": [1],
     "addresses": ["0x4629C578a9e49Ef4AaABFeE03F238cB11625F78B"],
     "title": "Mimic Smart Vault Fee Collector",
+    "logo": "https://v2-mimic.s3.amazonaws.com/mimic.png",
     "description": ""
 }
