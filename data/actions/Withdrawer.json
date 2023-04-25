@@ -1,6 +1,6 @@
 {
     "networks": [1, 5, 42161, 80001],
-    "addresses": ["0x3e9909810691A29097469Dd8A3Ac7824c734Ad4b", "0x0C5E2299f9C3b4e3AF2ce0056Cba01fe470176A0", "0x50dabb21895ed7e11c9e7cb6daa98d4bf9fb6929", "0xdDd7B9189DE4D62e16754fE1A7aB88ABAf8421ef"],
+    "addresses": ["0x3e9909810691A29097469Dd8A3Ac7824c734Ad4b", "0x0C5E2299f9C3b4e3AF2ce0056Cba01fe470176A0", "0x50dabb21895ed7e11c9e7cb6daa98d4bf9fb6929", "0xdDd7B9189DE4D62e16754fE1A7aB88ABAf8421ef", "0xc75f89C55fd71B07A54976575C774EA6Fa283d7A"],
     "icon": "https://v2-mimic.s3.amazonaws.com/withdraw.png",
     "title": "Withdraw",
     "description": "Withdraws assets to an external wallet configured by the owner.",
