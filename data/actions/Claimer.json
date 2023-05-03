@@ -1,6 +1,6 @@
 {
     "networks": [10],
-    "addresses": ["0x245681511257F3A68513c69a9BF71b2cd78E076A"],
+    "addresses": ["0x245681511257F3A68513c69a9BF71b2cd78E076A", "0xdF818E63341767d5F5A9827088f1892e9C604A2D"],
     "icon": "https://v2-mimic.s3.amazonaws.com/wrap.png",
     "title": "Claimer",
     "description": "Claim assets from protocol",
