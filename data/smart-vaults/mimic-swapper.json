@@ -1,5 +1,5 @@
 {
-    "networks": [10, 42161, 1, 46, 137, 43114, 250, 100],
+    "networks": [10, 42161, 1, 56, 137, 43114, 250, 100],
     "addresses": ["0xa7Ca2C8673bcFA5a26d8ceeC2887f2CC2b0Db22A"],
     "title": "Mimic Smart Vault Swapper",
     "description": "",
