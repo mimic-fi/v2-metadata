@@ -1,5 +1,5 @@
 {
-    "networks": [10, 42161, 1, 46, 137, 43114, 250, 100],
+    "networks": [10, 42161, 1, 56, 137, 43114, 250, 100],
     "addresses": ["0x3c11F6265Ddec22f4d049Dde480615735f451646"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "Swapper",
