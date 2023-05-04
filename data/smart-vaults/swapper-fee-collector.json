@@ -1,0 +1,7 @@
+{
+    "networks": [1, 42161, 56, 10, 137, 43114, 100, 250],
+    "addresses": ["0xeb4Af8a64070Ef0dEa6260e0Bf2310748f014d88"],
+    "title": "Swapper Smart Vault Fee Collector",
+    "logo": "https://v2-mimic.s3.amazonaws.com/mimic.png",
+    "description": ""
+}
