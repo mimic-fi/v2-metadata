@@ -1,5 +1,5 @@
 {
-    "networks": [10],
+    "networks": [10, 42161],
     "addresses": ["0x6030331C9225Ee5ae3F3D08FBD19e8bF053dF498"],
     "icon": "https://v2-mimic.s3.amazonaws.com/exit.png",
     "title": "BPTSwapper",
