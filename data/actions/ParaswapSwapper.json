@@ -1,5 +1,5 @@
 {
-    "networks": [10],
+    "networks": [10, 42161],
     "addresses": ["0x95676AaEcD59B19C5B79008F86d3A291628b0947"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "Paraswap Swapper",
