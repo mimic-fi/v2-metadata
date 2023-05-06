@@ -1,0 +1,8 @@
+{
+    "networks": [1],
+    "addresses": ["0x02f58CF8D007e64B6630178Fee2EC1E63A632c3C"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/withdraw.png",
+    "title": "Withdraw",
+    "description": "Withdraws assets to an external wallet",
+    "successMessage": "Assets withdrew successfully"
+} 
