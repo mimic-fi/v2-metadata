@@ -1,0 +1,8 @@
+{
+    "networks": [42161, 100, 80001, 10, 137],
+    "addresses": ["0x8eE0AC6Cc3844C657fa4828ceC7060d171129408", "0x07F51f658d7a9DebF6F7715600DB5784a83735E2", "0xF977C9D2326A4d655c4578B4D1534447d173d4c9"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
+    "title": "Hop Bridge",
+    "description": "Bridge assets",
+    "successMessage": "Assets bridged [Hop] to the destination chain successfully"
+} 

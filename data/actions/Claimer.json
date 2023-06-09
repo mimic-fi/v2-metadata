@@ -1,6 +1,6 @@
 {
-    "networks": [1, 10, 42161],
-    "addresses": ["0x245681511257F3A68513c69a9BF71b2cd78E076A", "0xdF818E63341767d5F5A9827088f1892e9C604A2D"],
+    "networks": [1, 10, 42161, 100, 137],
+    "addresses": ["0x245681511257F3A68513c69a9BF71b2cd78E076A", "0xdF818E63341767d5F5A9827088f1892e9C604A2D", "0x987c573627A5B801b4a2831893E9f18a4D3Aa6d7", "0xc003B5e1F2e6B4758A1b01B6848921733fcd178E", "0x56f02cC2D75fa4ec5151Ae126d35B64710c58e24"],
     "icon": "https://v2-mimic.s3.amazonaws.com/wrap.png",
     "title": "Claimer",
     "description": "Claim assets from protocol",
