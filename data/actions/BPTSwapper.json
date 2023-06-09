@@ -1,6 +1,6 @@
 {
-    "networks": [10, 42161],
-    "addresses": ["0x6030331C9225Ee5ae3F3D08FBD19e8bF053dF498"],
+    "networks": [1, 10, 42161, 100, 137],
+    "addresses": ["0x6030331C9225Ee5ae3F3D08FBD19e8bF053dF498", "0x5E0690F80279947fdFD9BA92822b28ccf01fE3f8", "0x8f57e6E900f834721b32D33fd0497C0cc3BDc9c2", "0xAa3605B38827a1C7721E73BF4fA3c8fA2Dd488ED"],
     "icon": "https://v2-mimic.s3.amazonaws.com/exit.png",
     "title": "BPTSwapper",
     "description": "Exit Balancer Pool Token ",

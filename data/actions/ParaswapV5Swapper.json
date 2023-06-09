@@ -1,0 +1,8 @@
+{
+    "networks": [1, 10, 42161, 100, 137],
+    "addresses": ["0x5472d1eEAe98167b580d7eaA552Ea48471FBb411", "0x2AAb8291b2099Cb11421eD84CC45C87c793A5A77", "0xB08dE4da9ab2f2675268A2515d226C2Ce371D26F"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
+    "title": "Paraswap Swapper",
+    "description": "Swap assets using Paraswap",
+    "successMessage": "Assets swapped [Paraswap] successfully"
+} 

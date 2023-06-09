@@ -1,0 +1,8 @@
+{
+    "networks": [1, 10, 42161, 100, 137],
+    "addresses": ["0x141f6a444Ab4Ec550DB20c829b25B15Feae89F15", "0xD6532B1cF77a6da3e7B4D2A23A01916b0619E87e", "0xF36871c460d452802DAB7AF5E3B2A9eB2b74cf38"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
+    "title": "1inch Swapper",
+    "description": "Swap assets using 1inch",
+    "successMessage": "Assets swapped [1inch] successfully"
+} 
