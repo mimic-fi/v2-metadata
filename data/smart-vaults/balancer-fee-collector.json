@@ -2,6 +2,6 @@
     "networks": [1, 10, 42161, 100, 137],
     "addresses": ["0x94Dd9C6152a2A0BBcB52d3297b723A6F01D5F9f7"],
     "title": "Balancer Smart Vault Fee Collector",
-    "description": "This is a proposal to provide Balancer DAO with an automated way to collect the fees that the protocol has earned from its different layers and convert them to distribute it back",
+    "description": "This is a proposal to provide Balancer DAO with an automated way to collect the fees that the protocol has earned from its different layers and convert them to distribute it back.",
     "logo": "https://v2-mimic.s3.amazonaws.com/balancer.png"
 }
