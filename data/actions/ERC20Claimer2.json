@@ -1,0 +1,8 @@
+{
+    "networks": [1, 56, 42161, 10, 250, 43114],
+    "addresses": ["0x46adEC4182aE274337b31dFAF69520FB37843bEA"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
+    "title": "ERC20Claimer 2",
+    "description": "Gathers assets from ParaSwap Fee Claimer and swaps them to WETH (except  WETH, ETH and PSP)",
+    "successMessage": "Assets claimed and swapped successfully"
+} 

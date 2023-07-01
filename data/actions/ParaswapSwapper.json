@@ -1,6 +1,6 @@
 {
-    "networks": [1, 10, 42161],
-    "addresses": ["0x95676AaEcD59B19C5B79008F86d3A291628b0947"],
+    "networks": [1, 10, 42161, 137],
+    "addresses": ["0x95676AaEcD59B19C5B79008F86d3A291628b0947", "0x5472d1eEAe98167b580d7eaA552Ea48471FBb411"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "Paraswap Swapper",
     "description": "Swap assets using Paraswap",

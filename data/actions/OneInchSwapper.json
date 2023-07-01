@@ -1,6 +1,6 @@
 {
-    "networks": [1, 10, 42161],
-    "addresses": ["0xd712A863766dE7e7cA13289A97997E01832A6571"],
+    "networks": [1, 10, 42161, 137],
+    "addresses": ["0xd712A863766dE7e7cA13289A97997E01832A6571", "0xF36871c460d452802DAB7AF5E3B2A9eB2b74cf38"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "1inch Swapper",
     "description": "Swap assets using 1inch",
