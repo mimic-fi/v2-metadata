@@ -1,0 +1,8 @@
+{
+    "networks": [250],
+    "addresses": ["0x4506bc69eA00715B541caA6edc70D1d699B7e5ef"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
+    "title": "Fantom Bridge",
+    "description": "Bridge assets",
+    "successMessage": "Assets bridged [Fantom] to the destination chain successfully"
+} 
