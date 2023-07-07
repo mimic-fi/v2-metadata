@@ -1,5 +1,5 @@
 {
-    "networks": [1, 56, 42161, 10, 250, 43114],
+    "networks": [1, 56, 42161, 10, 250, 43114, 137],
     "addresses": ["0x46adEC4182aE274337b31dFAF69520FB37843bEA"],
     "icon": "https://v2-mimic.s3.amazonaws.com/swap.png",
     "title": "ERC20Claimer 2",

@@ -1,5 +1,5 @@
 {
-    "networks": [1,56, 137, 42161, 10],
+    "networks": [1,56, 137, 42161, 10, 137],
     "addresses": ["0x450F8eF3d972060710BFC4615bb69491dfd670f3"],
     "icon": "https://v2-mimic.s3.amazonaws.com/withdraw.png",
     "title": "Withdraw",
