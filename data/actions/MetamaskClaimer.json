@@ -1,6 +1,6 @@
 {
     "networks": [1,56, 137, 42161, 10],
-    "addresses": ["0x450F8eF3d972060710BFC4615bb69491dfd670f3", "0x0b8E9fAbE4A80F411f9A86a2F55BB7C1b5371aaa"],
+    "addresses": ["0x450F8eF3d972060710BFC4615bb69491dfd670f3", "0x0b8E9fAbE4A80F411f9A86a2F55BB7C1b5371aaa", "0x9FCcA2985dc4fcfdd5d948dD6eDFE1400e5584c7"],
     "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
     "title": "Metamask",
     "description": "Assets claimmed from MM",
