@@ -1,5 +1,5 @@
 {
-    "networks": [250],
+    "networks": [43114],
     "addresses": ["0x7BB8aa3E52CEB03b5528496Ea4C7e4213132643D"],
     "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
     "title": "CCTP Bridge",
