@@ -1,6 +1,6 @@
 {
     "networks": [137, 56, 42161, 10, 137],
-    "addresses": ["0xB1507336421394Baf99aB23d6B39bd5b1592263E"],
+    "addresses": ["0xB1507336421394Baf99aB23d6B39bd5b1592263E", "0x24c304f1621028b0a5bbadd17f5fee4e30611b88", "0x8f556010a5B0B1418cD72BcF312bB25efD1F4D0c"],
     "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
     "title": "Connext Bridge",
     "description": "Bridge assets",
