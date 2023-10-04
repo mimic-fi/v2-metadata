@@ -1,0 +1,8 @@
+{
+    "networks": [137, 42161, 10],
+    "addresses": ["0x88BA0f52E49D0cFaCa15F9ec09c33c6204D4E630"],
+    "icon": "https://v2-mimic.s3.amazonaws.com/bridge.png",
+    "title": "Bridge",
+    "description": "Bridge assets",
+    "successMessage": "Assets bridged to the destination chain successfully"
+} 
